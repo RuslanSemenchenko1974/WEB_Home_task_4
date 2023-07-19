@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+.top{
+    margin: 0 auto;
+    width: 1200;
+    
+}
+.header{
+    width: 1200;
+    height: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+.header-image{    
+    margin-right: 250px;
+    margin-top: 30px;
+}
+.write{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-ref{
+color: black;
+display: block;
+margin-right: 20px;
+padding: 25px 15px;
+}
+.btn{
+    color: #fff;
+    display: block;
+    background-color: #F25822;
+    padding: 8px 2rem;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    }
+.btn:hover {
+    background-color: #75cbe6;
+    color: #0f1114;
+    border: 2px solid #141618;
+    }
+
+.top_content{
+    width: 1200;
+    margin-bottom: 150px;
+    display: flex;
+    justify-content: center;
+
+}
+.top_info{
+    width: 30%;
+}
+.title{
+    margin-bottom: 40px;
+    font-size: 55px;
+    font-style: normal;
+}
+.txt{ 
+    color: #363535;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.top-info-button{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.top-button{
+    color: #000;
+    padding: 1rem 2rem;
+    margin-right: 15px;
+}
+.middle{
+    display: flex;
+    align-items: center;
+}
+.player{
+    margin-right: 10px;
+}
+.button-1{
+    color: #fff;
+    background-color: #F25822;
+    border-radius: 25px;
+    border: 2px solid transparent;
+}
+.button-1:hover {
+    background-color: #fff;
+    color: #0d0e11;
+    border: 2px solid #3A68B8;
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    margin-right: 25px;
+}
